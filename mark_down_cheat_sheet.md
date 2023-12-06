@@ -214,11 +214,23 @@ Column A | Column B | Column C
  A2 | B2 | C2
  A3 | B3 | C3
 
+
+| Column 1 | Column 2 | Column 3 |
+|-----------|-----------|-----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
+
 Table with header:
+
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 
 Column A | Column B | Column C
 ---------|----------|---------
  A1 | B1 | C1
  A2 | B2 | C2
  A3 | B3 | C3
-
